@@ -1,4 +1,4 @@
-# ETL Assignment: Stored Procedure
+# ETL Process with Stored Procedure
 
 ## Objective
 Design and implement a stored procedure, `dwh.generate_sales()`, to automate the ETL (Extract, Transform, Load) process.
